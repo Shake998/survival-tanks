@@ -1,14 +1,16 @@
-import React from 'react';
+import React from 'react'
+import Navbar from '../../components/Navbar/Navbar'
 
 
 function Home() {
 
     
     return (
-        <div>
-            <h1 className="App-title">Giffy Store</h1>
+        <div className="App-home">
+            <Navbar />
+            {/* <h1 className="App-title">SURVIVAL TANKS</h1> */}
         </div>
     );
 }
 
-export default Home;
+export default Home

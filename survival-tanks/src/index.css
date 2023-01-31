@@ -1,3 +1,10 @@
+:root {
+  --primary-color: #CCAA2F;
+  --secondary-color: #2B2C31;
+  --dark-color: #1d1e21;
+  --text-white: #efefef;
+}
+
 * {
   font-family: 'Amethysta', serif;
 }
